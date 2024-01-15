@@ -1,0 +1,15 @@
+C:\Repos\WeatherConsoleApp\bin\Debug\net8.0\WeatherConsoleApp.exe
+C:\Repos\WeatherConsoleApp\bin\Debug\net8.0\WetterWerte.txt
+C:\Repos\WeatherConsoleApp\bin\Debug\net8.0\WeatherConsoleApp.deps.json
+C:\Repos\WeatherConsoleApp\bin\Debug\net8.0\WeatherConsoleApp.runtimeconfig.json
+C:\Repos\WeatherConsoleApp\bin\Debug\net8.0\WeatherConsoleApp.dll
+C:\Repos\WeatherConsoleApp\bin\Debug\net8.0\WeatherConsoleApp.pdb
+C:\Repos\WeatherConsoleApp\obj\Debug\net8.0\WeatherConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\WeatherConsoleApp\obj\Debug\net8.0\WeatherConsoleApp.AssemblyInfoInputs.cache
+C:\Repos\WeatherConsoleApp\obj\Debug\net8.0\WeatherConsoleApp.AssemblyInfo.cs
+C:\Repos\WeatherConsoleApp\obj\Debug\net8.0\WeatherConsoleApp.csproj.CoreCompileInputs.cache
+C:\Repos\WeatherConsoleApp\obj\Debug\net8.0\WeatherConsoleApp.dll
+C:\Repos\WeatherConsoleApp\obj\Debug\net8.0\refint\WeatherConsoleApp.dll
+C:\Repos\WeatherConsoleApp\obj\Debug\net8.0\WeatherConsoleApp.pdb
+C:\Repos\WeatherConsoleApp\obj\Debug\net8.0\WeatherConsoleApp.genruntimeconfig.cache
+C:\Repos\WeatherConsoleApp\obj\Debug\net8.0\ref\WeatherConsoleApp.dll
