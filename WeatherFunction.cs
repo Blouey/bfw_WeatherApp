@@ -136,4 +136,35 @@ public class WeatherFunction
         }
         File.AppendAllText(Program.Path + "WetterResult.txt", data);
     }
+
+    public void LogWeatherInfo(List<WeatherInfo> weatherInfos)
+    {
+        var date = DateTime.UtcNow.AddHours(+1);
+        foreach (WeatherInfo weatherInfo in weatherInfos)
+        {
+            File.WriteAllLines(Program.Path + $"Wetter{weatherInfo.Cityname}.txt", 
+                new string[] { $"Wetterdaten {weatherInfo.Cityname}: ", date.ToString(), "\n" });
+            LogCityWeather(weatherInfos, weatherInfo.Cityname);
+        }
+    }
+    
+    public void LogCityWeather(List<WeatherInfo> weatherList, string cityname)
+    {
+        string data = "";
+        foreach (WeatherInfo weatherInfo in weatherList)
+        {
+            if (weatherInfo.Cityname == cityname)
+            {
+                foreach (Weather weather in weatherInfo.Weather)
+                {
+                    data += $"______________________ \n\nDate: {weather.Date} \n----------------------\n";
+                    data += "\n" + AnalyzeTemps(weather.Temperatures);
+                    data += "\n" + AnalyzeAirPressures(weather.AirPressures);
+                    data += "\n" + AnalyzeHumidities(weather.Humidities);
+                    data += "\n" + AnalyzeWindSpeeds(weather.WindSpeeds);
+                }
+            }
+        }
+        File.AppendAllText(Program.Path + $"Wetter{cityname}.txt", data);
+    }
 }

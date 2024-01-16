@@ -1,0 +1,88 @@
+Wetterdaten Essen: 
+16.01.2024 09:55:24
+
+
+______________________ 
+
+Date: 2019-01-01 
+----------------------
+
+Temperatures: 
+	-------------- 
+	Min: 10°C 
+	Max: 17°C 
+	Avg: 13,86°C 
+
+AirPressures: 
+	-------------- 
+	Min: 1000 mbar 
+	Max: 1006 mbar 
+	Avg: 1003 mbar 
+
+Humidities: 
+	-------------- 
+	Min: 50% 
+	Max: 56% 
+	Avg: 53% 
+
+WindSpeeds: 
+	--------------  
+	Min: 10 km/h 
+	Max: 16 km/h 
+	Avg: 13 km/h 
+______________________ 
+
+Date: 2019-01-02 
+----------------------
+
+Temperatures: 
+	-------------- 
+	Min: 20°C 
+	Max: 27°C 
+	Avg: 23,86°C 
+
+AirPressures: 
+	-------------- 
+	Min: 1000 mbar 
+	Max: 1006 mbar 
+	Avg: 1003 mbar 
+
+Humidities: 
+	-------------- 
+	Min: 60% 
+	Max: 66% 
+	Avg: 63% 
+
+WindSpeeds: 
+	--------------  
+	Min: 20 km/h 
+	Max: 26 km/h 
+	Avg: 23 km/h 
+______________________ 
+
+Date: 2019-01-03 
+----------------------
+
+Temperatures: 
+	-------------- 
+	Min: 30°C 
+	Max: 37°C 
+	Avg: 33,86°C 
+
+AirPressures: 
+	-------------- 
+	Min: 1020 mbar 
+	Max: 1026 mbar 
+	Avg: 1023 mbar 
+
+Humidities: 
+	-------------- 
+	Min: 70% 
+	Max: 76% 
+	Avg: 73% 
+
+WindSpeeds: 
+	--------------  
+	Min: 30 km/h 
+	Max: 36 km/h 
+	Avg: 33 km/h 
