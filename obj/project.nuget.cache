@@ -1,8 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "O+GR5rlp8tpnYMZHlMmz0p13xEVoY06uAo/Csu0OrcENIZQD84u1+8ZtbonRMQlk9taI8PBglW7+uvC5Ry+CNQ==",
+  "dgSpecHash": "BD4ih7nd5c3Qko5Ov6bqy+m6pLhmqRymJUSbgkmkPBqrIxe8yR69Y63mkeU5yOQlFLMsIi8mM0pAjjJsm9h0oA==",
   "success": true,
-  "projectFilePath": "C:\\Repos\\WeatherConsoleApp\\WeatherConsoleApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Repos\\bfw_WeatherApp\\WeatherConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Blouey\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "C:\\Users\\Blouey\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Blouey\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\8.0.0\\microsoft.extensions.configuration.fileextensions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Blouey\\.nuget\\packages\\microsoft.extensions.configuration.json\\8.0.0\\microsoft.extensions.configuration.json.8.0.0.nupkg.sha512",
+    "C:\\Users\\Blouey\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\8.0.0\\microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Blouey\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\8.0.0\\microsoft.extensions.fileproviders.physical.8.0.0.nupkg.sha512",
+    "C:\\Users\\Blouey\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\8.0.0\\microsoft.extensions.filesystemglobbing.8.0.0.nupkg.sha512",
+    "C:\\Users\\Blouey\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\Blouey\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\Blouey\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
